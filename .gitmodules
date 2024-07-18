@@ -1,0 +1,3 @@
+[submodule "saas/salesforce"]
+	path = saas/salesforce
+	url = https://github.com/mohan-work/salesforce-saas-discovery-connector
