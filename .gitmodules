@@ -1,6 +1,8 @@
 [submodule "saas/salesforce-saas-discovery-connector"]
 	path = saas/salesforce-saas-discovery-connector
 	url = https://github.com/mohan-work/salesforce-saas-discovery-connector
+	branch = main
 [submodule "saas/jira-saas-discovery-connector"]
 	path = saas/jira-saas-discovery-connector
 	url = https://github.com/mohan-work/jira-saas-discovery-connector
+	branch = main
